@@ -41,7 +41,10 @@ public class Mahasiswa {
     
     
     public String getDetail(){
-    
+        System.out.println("NPM : " + npm);
+        System.out.println("Nama : " + nama);
+        System.out.println("Prodi : " + prodi);
+        return null;
 }
     
 }
